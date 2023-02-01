@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32901.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Snake_Raylib", "Snake_Raylib\Snake_Raylib.vcxproj", "{193C0135-0BFB-4CA7-9E9C-6BFFE51189FC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{193C0135-0BFB-4CA7-9E9C-6BFFE51189FC}.Debug|x64.ActiveCfg = Debug|x64
+		{193C0135-0BFB-4CA7-9E9C-6BFFE51189FC}.Debug|x64.Build.0 = Debug|x64
+		{193C0135-0BFB-4CA7-9E9C-6BFFE51189FC}.Debug|x86.ActiveCfg = Debug|Win32
+		{193C0135-0BFB-4CA7-9E9C-6BFFE51189FC}.Debug|x86.Build.0 = Debug|Win32
+		{193C0135-0BFB-4CA7-9E9C-6BFFE51189FC}.Release|x64.ActiveCfg = Release|x64
+		{193C0135-0BFB-4CA7-9E9C-6BFFE51189FC}.Release|x64.Build.0 = Release|x64
+		{193C0135-0BFB-4CA7-9E9C-6BFFE51189FC}.Release|x86.ActiveCfg = Release|Win32
+		{193C0135-0BFB-4CA7-9E9C-6BFFE51189FC}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {35C2D66C-6BF8-49C4-BB85-465CB0B701F3}
+	EndGlobalSection
+EndGlobal
